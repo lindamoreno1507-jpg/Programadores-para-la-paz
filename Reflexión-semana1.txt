@@ -1,9 +1,0 @@
-La relación que yo encuentro entre los conceptos anteriores es que si tenemos
-responsabilidad sobre la información que compartimos en internet, evitamos que las
-personas tengan una visión confusa de los hechos que pasan día a día, por la cual su
-percepción de las cosas sería más acertaba y no basada en rumores y la herramienta git
-nos ayuda a construir una base para hacer que colaboración social sea más sólida y
-confiable, permitiendo que las personas participen en temas políticos, ambientales o
-movimientos sociales que requieren una opinión y participación pública.
-
-
