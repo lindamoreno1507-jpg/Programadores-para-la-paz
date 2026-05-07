@@ -1,0 +1,5 @@
+Repositorio: es un espacio digital, creado para almacenar, organizar y gestionar archivos y documentos el cual facilita la difusión de la información, pueden tener imágenes, datos o archivos.
+
+Committ: es una herramienta la cual nos permite guardar los cambios de un proyecto en un punto específico
+
+Push: en programación el concepto push es la acción de subir cambios locales aún repositorio.

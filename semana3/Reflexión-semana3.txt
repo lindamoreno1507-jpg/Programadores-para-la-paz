@@ -1,0 +1,1 @@
+Es importante que los proyectos mantengan un registro de cambios usando la herramienta git por que nos beneficia un montón ya ofrece seguimiento de los cambios del proyectos como saber cada parte que se modifica, nos muestra la evolución mostrando quien lo hace, cuando y por que, también nos ayuda a manejar posibles problemas que puedan surgir.
