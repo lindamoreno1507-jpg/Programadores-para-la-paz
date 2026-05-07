@@ -1,0 +1,1 @@
+Para un desarrollador es importante saber utilizar la terminal por que  nos facilita organizar, nos da control sobre archivos, procesos y permisos con precisión para gestionar proyectos, ya que nos permite agrupar comandos que nos ayudan a crear estructuras de archivos, controlar aplicaciones y recopilar información para obtener resultados de manera precisa
