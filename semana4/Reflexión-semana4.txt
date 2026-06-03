@@ -1,0 +1,4 @@
+﻿
+Es fundamental ya que da autonomía y control total sobre proyectos sin depender de empresas ni pagar licencias. 
+Al usar tecnologías abiertas como node.js, se tiene acceso sin costo alguno y se puede adaptar las herramientas a las necesidades reales, también se puede compartir conocimientos entre sí y se puede crear soluciones que realmente respondan a la cultura y a problemas locales.
+
