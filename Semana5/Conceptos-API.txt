@@ -1,0 +1,4 @@
+
+La ruta API permite que la aplicación se comunique con un servidor para solicitar o enviar datos.
+
+La ruta API en una aplicación comunitaria sirve para conectar una app a una base de datos y servicios proporcionando una gestión de seguridad ocultando información confidencial del servidor, permitiendo enviar notificaciones directamente a los teléfonos de la comunidad en caso de emergencia o de participación ciudadana.
