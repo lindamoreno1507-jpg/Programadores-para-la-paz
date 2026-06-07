@@ -1,0 +1,8 @@
+Prueba 1: http://localhost:3000
+Al entrar, se muestra el mensaje "Servidor activo"
+
+Prueba 2: http://localhost:3000/saludo
+Muestra el mensaje "Hola comunidad"
+
+Prueba 3: http://localhost:3000/mensaje/juan
+Aquí se muestra "Hola juan"
