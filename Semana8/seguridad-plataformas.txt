@@ -1,0 +1,5 @@
+1. Verificar la identidad de cada usuario antes de permitirle participar
+2. Establecer reglas claras de convivencia y publicación de información
+3. Realizar copias de seguridad periódicas de todos los reportes y datos
+4. Revisar y moderar los contenidos publicados para evitar información falsa
+5. Actualizar constantemente el sistema para corregir fallos y cerrar riesgos

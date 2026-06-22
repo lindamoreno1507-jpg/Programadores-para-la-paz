@@ -1,0 +1,8 @@
+Comando: uname -a
+Muestra información completa del sistema: qué versión del sistema operativo es, el tipo de equipo, la versión del núcleo y detalles del procesador.
+
+Comando: whoami
+Indica el nombre del usuario que está usando la terminal en ese momento.
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+Es muy importante porque nos ayuda a saber exactamente con qué equipo y sistema estamos trabajando. Así podemos instalar bien los programas, corregir errores, actualizar el sistema y saber qué permisos tiene cada persona que entra. También sirve para detectar si alguien extraño accedió y mantener el servidor seguro y funcionando bien.

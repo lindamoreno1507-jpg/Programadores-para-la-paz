@@ -1,0 +1,4 @@
+1. Activar la verificación en dos pasos en todas las cuentas que lo permitan
+2. Evitar conectarse a redes Wi-Fi públicas para ingresar datos personales o bancarios
+3. No abrir archivos ni enlaces enviados por remitentes desconocidos
+4. Cerrar siempre las sesiones cuando uses dispositivos que no sean tuyos
