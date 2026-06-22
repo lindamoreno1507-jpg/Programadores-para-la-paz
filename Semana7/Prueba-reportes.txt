@@ -1,0 +1,28 @@
+
+1. Petición POST 1:
+URL: http://localhost:3000/reportes
+Datos enviados:
+{
+ "tipo": "Vías y transporte",
+ "descripcion": "Bache profundo en la intersección de la calle 5 con carrera 2"
+}
+Respuesta: Se registra con id: 1
+
+2. Petición POST 2:
+URL: http://localhost:3000/reportes
+Datos enviados:
+{
+ "tipo": "Servicios públicos",
+ "descripcion": "Fuga de agua potable en la tubería frente al parque del barrio"
+}
+Respuesta: Se registra con id: 2
+
+3. Petición GET:
+URL: http://localhost:3000/reportes
+Respuesta obtenida:
+[
+ {"id": 1, "tipo": "Vías y transporte", "descripcion": "Bache profundo en la intersección de la calle 5 con carrera 2"},
+ {"id": 2, "tipo": "Servicios públicos", "descripcion": "Fuga de agua potable en la tubería frente al parque del barrio"}
+]
+
+Explicación: Al consultar con GET, el servidor devuelve una lista completa de todos los reportes guardados, cada uno con su identificador único, lo que permite verificar que se almacenaron correctamente.
