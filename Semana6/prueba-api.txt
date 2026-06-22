@@ -1,0 +1,19 @@
+Prueba API 
+
+Petición:
+Método: POST
+URL: http://localhost:3000/registro
+Datos enviados:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Respuesta recibida:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Explicación: El servidor confirma que se recibió correctamente la información enviada con el código 200 exitoso y la devuelve para verificar que la comunicación funciona sin errores.

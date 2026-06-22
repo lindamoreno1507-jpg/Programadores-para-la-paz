@@ -1,0 +1,17 @@
+- Método: POST
+- URL: http://localhost:3000/incidencia
+- Datos enviados:
+{
+  "tipo": "Alumbrado público",
+  "descripcion": "Varias farolas de la calle principal no funcionan desde hace 3 días"
+}
+
+2. Respuesta recibida del servidor:
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Alumbrado público",
+  "descripcion": "Varias farolas de la calle principal no funcionan desde hace 3 días"
+}
+
+3. Explicación:
+La nueva ruta recibe el tipo y descripción del reporte, confirma su registro y devuelve los datos para verificar que se guardaron correctamente.
