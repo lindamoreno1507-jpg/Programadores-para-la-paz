@@ -1,0 +1,9 @@
+1. Como habitante de la comunidad quiero ver el estado de mi reporte para saber si ya se está revisando.
+
+2. Como veedor quiero adjuntar fotos o documentos a un caso para dejar pruebas más claras.
+
+3. Como responsable de área quiero filtrar reportes por zona para atender primero los lugares más afectados.
+
+4. Como ciudadano quiero recibir un aviso cuando se actualice la información de mi denuncia.
+
+5. Como integrante del equipo quiero ver cuáles casos llevan más tiempo sin respuesta para no dejarlos olvidados.

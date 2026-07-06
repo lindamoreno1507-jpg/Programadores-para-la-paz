@@ -1,0 +1,7 @@
+Evento que activa el flujo: Se marca un reporte como "resuelto" en la base de datos.
+
+Acción: Enviar un aviso al grupo de Telegram del equipo y a la persona que hizo el reporte.
+
+Mensaje: Reporte actualizado: El caso sobre [tema breve] ya fue revisado y resuelto. Gracias por tu aporte."
+
+Información que NO se debe enviar: Nombres completos, números de documento, direcciones exactas, teléfonos, datos de salud o cualquier información privada de las personas involucradas.

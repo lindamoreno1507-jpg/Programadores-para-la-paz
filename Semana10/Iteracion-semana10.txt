@@ -1,0 +1,17 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+
+~ Como habitante de la comunidad quiero ver el estado de mi reporte para saber si ya se está revisando.
+
+~ Como veedor quiero adjuntar fotos o documentos a un caso para dejar pruebas más claras.
+
+2. ¿Por qué son las más importantes?
+
+Son la base de todo el trabajo: sin poder consultar el estado ni agregar pruebas, la gente no confía en el proceso y no podemos tener información sólida para vigilar. Son lo primero que necesitamos para empezar a atender bien a la comunidad.
+
+3. ¿Qué significa para ti que una tarea esté "terminada"?
+
+~ Funciona sin errores cuando la usa cualquier persona.
+
+~ La probamos con miembros de la comunidad y entendieron cómo usarla.
+
+~ No guarda ni comparte datos personales sin permiso.
