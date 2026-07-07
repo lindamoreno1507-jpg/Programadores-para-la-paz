@@ -1,0 +1,7 @@
+En la parte superior habrá un formulario sencillo para publicar una nueva causa: se pedirá el nombre del asunto, qué se necesita, el lugar y una breve explicación.
+
+Abajo se verá la lista completa de todas las causas activas, ordenadas para que sean fáciles de encontrar.
+
+Cada causa tendrá su propio botón claro para darle apoyo, y al lado un número que muestre cuántas personas ya se sumaron.
+
+Todo se verá limpio y fácil de usar, sin mostrar datos privados de quienes participan.

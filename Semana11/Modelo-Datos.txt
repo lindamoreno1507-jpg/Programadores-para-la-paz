@@ -1,0 +1,33 @@
+Entidad: CasoVeeduria
+
+Campos principales:
+
+• id
+
+• tema_del_caso
+
+• lugar_afectado
+
+• fecha_de_registro
+
+• estado_actual
+
+Propósito:
+Guardar cada situación que revisa el equipo de veeduría, para saber de qué trata, dónde ocurre y cómo va su atención.
+
+Entidad: Observacion
+
+Campos principales:
+
+• id
+
+• caso_id
+
+• autor_observacion
+
+• comentario
+
+• fecha
+
+Propósito:
+Anotar los comentarios, avances o hallazgos que hace el equipo sobre cada caso, para no perder el rastro de lo revisado.
