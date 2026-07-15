@@ -1,0 +1,9 @@
+Herramienta usada: n8n
+
+Evento que activa la automatización: Se actualiza el estado de una causa a "enviada a las autoridades"
+
+Mensaje que se genera y envía por n8n:
+"Estimados, la causa [título de la petición] ha sido entregada oficialmente a la entidad correspondiente. Les avisaremos cuando tengamos una respuesta."
+
+Información que NO se debe incluir ni enviar por seguridad:
+Números de documento de identidad, teléfonos, direcciones de vivienda, correos electrónicos privados ni cualquier dato personal de quienes crearon o apoyaron la causa

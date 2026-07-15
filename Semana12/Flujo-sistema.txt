@@ -1,0 +1,11 @@
+1. Una persona escribe y envía la información de lo que su comunidad necesita.
+
+2. El sistema revisa que los datos estén completos y guarda la petición en su base de datos.
+
+3. Cualquier persona que entre a la plataforma podrá ver la petición y saber de qué trata.
+
+4. Quienes estén de acuerdo pueden dejar su respaldo con sus datos básicos para apoyarla.
+
+5. El sistema suma todos los apoyos que llega y muestra el total de forma pública.
+
+6. Cuando se necesite, se puede descargar automáticamente un documento oficial con todo el texto y la lista de personas que apoyan.

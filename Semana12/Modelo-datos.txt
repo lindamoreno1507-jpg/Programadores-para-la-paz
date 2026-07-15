@@ -1,0 +1,25 @@
+Este modelo tiene dos partes principales, llamadas entidades, que guardan toda la información de forma ordenada:
+
+
+1. Entidad: Causa
+Es el grupo de datos que guarda todo lo relacionado con cada petición o necesidad que la comunidad quiera presentar.
+Sus campos son:
+- id: Código único que le damos a cada causa para diferenciarla de las demás.
+- titulo: Nombre corto y claro que resume de qué trata la petición.
+- descripcion: Explicación detallada de lo que se necesita, por qué es importante y qué se le pide a las autoridades.
+- fecha: Día y hora exacta en que se creó y publicó la causa.
+
+¿Para qué sirve esta entidad?
+Para tener guardada y organizada toda la información de cada solicitud, para que cualquier persona la pueda leer, y para usar esos datos al momento de armar el documento oficial.
+
+
+2. Entidad: Apoyo
+Es el grupo de datos que guarda la información de cada persona que decide respaldar una causa ya creada.
+Sus campos son:
+- id: Código único para cada registro de apoyo que se haga.
+- causa_id: Sirve para unir este apoyo con la causa correspondiente, para saber exactamente a qué petición pertenece.
+- nombre: Nombre completo de la persona que está dando su apoyo.
+- fecha: Día en que la persona registró su respaldo.
+
+¿Para qué sirve esta entidad?
+Para llevar un control ordenado de todos los respaldos que recibe cada causa, saber cuántos apoyos tiene en total, y poder poner la lista de personas en el documento que se genera al final.
